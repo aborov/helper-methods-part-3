@@ -76,6 +76,7 @@ end
 gem "appdev_support"
 gem "awesome_print"
 gem "devise"       # to be removed
+gem 'simple_form'
 gem "dotenv-rails"
 gem "faker"
 gem "htmlbeautifier"
